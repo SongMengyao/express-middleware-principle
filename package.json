@@ -1,0 +1,23 @@
+{
+  "name": "express-middleware-principle",
+  "version": "1.0.0",
+  "description": "简单描述express框架中间件的原理，虽然没有官网封装的那么详细，但是不影响正常使用，简单的逻辑还是有的。",
+  "main": "express-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongMengyao/express-middleware-principle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongMengyao/express-middleware-principle/issues"
+  },
+  "homepage": "https://github.com/SongMengyao/express-middleware-principle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
